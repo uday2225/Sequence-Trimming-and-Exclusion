@@ -33,8 +33,23 @@ Developed as part of a bioinformatics coursework assignment, this script demonst
 
 ---
 
+## 👨‍💻 Author
+
+**Uday Kiran Gogineni** – Clustering & Modeling Lead  
+_M.S. in Bioinformatics_  
+[LinkedIn](https://www.linkedin.com/in/udaykiran01)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
 ## 🚀 How to Run
 
 ```bash
 # Run in Python 3
 python project.py
+
+
+
