@@ -1,0 +1,462 @@
+#Sequence name  length  span(s) apparent source
+scaffold10004	653	378..653	mitochondrion-not_cleaned
+scaffold10017	770	1..251	mitochondrion-not_cleaned
+scaffold10018	570	1..355	mitochondrion-not_cleaned
+scaffold1015	582	389..582	mitochondrion-not_cleaned
+scaffold10169	574	1..109	Bacillus amyloliquefaciens LFB112-not_cleaned
+scaffold10278	828	104..611	mitochondrion-not_cleaned
+scaffold10327	706	214..521	mitochondrion-not_cleaned
+scaffold10397	686	1..253	mitochondrion-not_cleaned
+scaffold10483	573	1..138,426..573	mitochondrion-not_cleaned
+scaffold10517	640	1..177	mitochondrion-not_cleaned
+scaffold10634	4118744	1825861..1826107	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold10653	723	1..193	mitochondrion-not_cleaned
+scaffold10695	14393919	2447872..2448044	mitochondrion-not_cleaned
+scaffold10835	690	1..201	mitochondrion-not_cleaned
+scaffold10836	749	1..342	mitochondrion-not_cleaned
+scaffold1096	740	344..651	mitochondrion-not_cleaned
+scaffold11026	594	1..148	mitochondrion-not_cleaned
+scaffold11031	670	362..670	mitochondrion-not_cleaned
+scaffold11032	872	740..872	mitochondrion-not_cleaned
+scaffold11041	723	597..723	mitochondrion-not_cleaned
+scaffold11106	775	430..775	mitochondrion-not_cleaned
+scaffold11122	794	1..326	mitochondrion-not_cleaned
+scaffold11133	599	264..599	mitochondrion-not_cleaned
+scaffold1117	38466	1..9707,34815..38466	vector/etc,Enterobacter cloacae EcWSU1-not_cleaned
+scaffold11347	579	359..579	mitochondrion-not_cleaned
+scaffold1149	6144	1..709,4131..6144	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold11595	609	1..321	mitochondrion-not_cleaned
+scaffold11644	766	1..175,471..766	mitochondrion-not_cleaned
+scaffold11727	717	578..717	mitochondrion-not_cleaned
+scaffold11792	753	1..175,471..753	mitochondrion-not_cleaned
+scaffold11845	824	1..555	mitochondrion-not_cleaned
+scaffold11868	2118726	220545..220714,2006532..2006651	vector/etc
+scaffold11884	628	1..302	mitochondrion-not_cleaned
+scaffold11923	952	1..173	Clostridium tetani 12124569-not_cleaned
+scaffold11937	664	462..664	mitochondrion-not_cleaned
+scaffold12042	786	1..220	mitochondrion-not_cleaned
+scaffold12120	6832	1..2389	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold12129	800	1..300	mitochondrion-not_cleaned
+scaffold12149	747	1..159	mitochondrion-not_cleaned
+scaffold12161	15202	4370..13900	Pseudomonas stutzeri-not_cleaned
+scaffold12307	7766320	2906497..2906650	mitochondrion-not_cleaned
+scaffold12318	736	1..300	mitochondrion-not_cleaned
+scaffold12322	645	1..240	mitochondrion-not_cleaned
+scaffold12402	603	1..170	mitochondrion-not_cleaned
+scaffold12444	606	1..314	mitochondrion-not_cleaned
+scaffold12481	540	1..160	mitochondrion-not_cleaned
+scaffold12577	554	418..554	mitochondrion-not_cleaned
+scaffold12583	732	1..488	mitochondrion-not_cleaned
+scaffold12626	571	114..341	mitochondrion-not_cleaned
+scaffold12640	630	1..206	mitochondrion-not_cleaned
+scaffold12716	739	1..460	mitochondrion-not_cleaned
+scaffold12868	571	1..243	mitochondrion-not_cleaned
+scaffold1288	686	542..686	mitochondrion-not_cleaned
+scaffold12894	601	378..601	mitochondrion-not_cleaned
+scaffold129	1583624	520142..521413	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold12919	660	1..321	mitochondrion-not_cleaned
+scaffold12971	820	559..820	mitochondrion-not_cleaned
+scaffold13072	17297006	618417..628328,14220113..14220418,14468729..14469015,14801830..14810611	mitochondrion/etc
+scaffold13089	635	1..223	mitochondrion-not_cleaned
+scaffold13151	608	1..330	mitochondrion-not_cleaned
+scaffold13182	582	1..334	mitochondrion-not_cleaned
+scaffold13229	716	1..155,551..716	mitochondrion-not_cleaned
+scaffold13251	675	324..675	mitochondrion-not_cleaned
+scaffold13296	598	1..127	mitochondrion-not_cleaned
+scaffold13331	779	1..247,543..779	mitochondrion-not_cleaned
+scaffold13363	744	361..744	mitochondrion-not_cleaned
+scaffold13385	612	1..177	mitochondrion-not_cleaned
+scaffold13401	574	264..574	mitochondrion-not_cleaned
+scaffold13440	599	1..198	mitochondrion-not_cleaned
+scaffold13447	531	235..531	mitochondrion-not_cleaned
+scaffold13576	17709779	3176658..3176857,3220306..3220701,3393799..3393932,3394059..3399274,3446105..3446152,3454786..3459464,3511110..3511201,3511363..3511723,3630080..3630290,4021514..4021590,4066800..4067928,4101114..4102576,4110736..4111660,4111671..7360362	vector/etc
+scaffold13643	696	1..125,521..696	mitochondrion-not_cleaned
+scaffold13729	573	1..151	mitochondrion-not_cleaned
+scaffold13791	693	534..693	mitochondrion-not_cleaned
+scaffold13810	760	435..760	mitochondrion-not_cleaned
+scaffold13839	671	1..266	mitochondrion-not_cleaned
+scaffold13857	654	230..654	mitochondrion-not_cleaned
+scaffold13937	579	340..579	mitochondrion-not_cleaned
+scaffold13941	641	1..136	mitochondrion-not_cleaned
+scaffold13944	2368	1..895	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold13946	604	1..158	mitochondrion-not_cleaned
+scaffold14008	626	1..215	mitochondrion-not_cleaned
+scaffold14009	564	1..153	mitochondrion-not_cleaned
+scaffold14102	592	1..325	mitochondrion-not_cleaned
+scaffold14434	620	284..620	mitochondrion-not_cleaned
+scaffold14604	654	1..214	mitochondrion-not_cleaned
+scaffold14709	725	1..337	mitochondrion-not_cleaned
+scaffold14723	768	148..655	mitochondrion-not_cleaned
+scaffold14726	747	1..547	mitochondrion-not_cleaned
+scaffold14786	727	1..162	mitochondrion-not_cleaned
+scaffold14807	3668192	1191101..1191423	mitochondrion-not_cleaned
+scaffold14809	3641417	2360070..2360398	mitochondrion-not_cleaned
+scaffold14860	640	301..640	mitochondrion-not_cleaned
+scaffold14934	18166903	1619701..1619844,8673171..8673479,13790639..13791071	mitochondrion/etc
+scaffold15009	8395819	7929867..7930098	mitochondrion-not_cleaned
+scaffold15419	37061	1..1003,31320..37061	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold15450	11211711	2681442..2681750,5351072..5351471	Enterobacter cloacae EcWSU1-not_cleaned,Escherichia coli ETEC H10407-not_cleaned
+scaffold15555	6180	1..1504	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold1563	597	266..597	mitochondrion-not_cleaned
+scaffold1564	559	1..266	mitochondrion-not_cleaned
+scaffold15780	704	1..263,559..704	mitochondrion-not_cleaned
+scaffold15806	530	1..260	mitochondrion-not_cleaned
+scaffold15830	738	500..738	mitochondrion-not_cleaned
+scaffold15865	575	108..415	mitochondrion-not_cleaned
+scaffold15866	711	455..711	mitochondrion-not_cleaned
+scaffold15885	566	1..188	mitochondrion-not_cleaned
+scaffold15912	595	1..223	mitochondrion-not_cleaned
+scaffold16016	673	490..673	mitochondrion-not_cleaned
+scaffold16053	828	1..207	mitochondrion-not_cleaned
+scaffold16110	10642	3671..7336	Cupriavidus metallidurans CH34-not_cleaned
+scaffold1622	30539	20966..30539	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold16258	144665	12578..13359,60762..61543,108946..109727	vector/etc-not_cleaned
+scaffold16352	643	472..643	mitochondrion-not_cleaned
+scaffold16398	593	444..593	mitochondrion-not_cleaned
+scaffold16428	740	1..493	mitochondrion-not_cleaned
+scaffold1653	7492	1..1560	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold16654	721	595..721	mitochondrion-not_cleaned
+scaffold16745	646	459..646	mitochondrion-not_cleaned
+scaffold16746	557	386..557	mitochondrion-not_cleaned
+scaffold16770	600	1..178	mitochondrion-not_cleaned
+scaffold16804	558	357..558	mitochondrion-not_cleaned
+scaffold17008	596	431..596	mitochondrion-not_cleaned
+scaffold1720	643	1..209	mitochondrion-not_cleaned
+scaffold1723	551	104..411	mitochondrion-not_cleaned
+scaffold1734	706	446..706	mitochondrion-not_cleaned
+scaffold17396	639	347..639	mitochondrion-not_cleaned
+scaffold1753	655	408..655	mitochondrion-not_cleaned
+scaffold17590	36190	1..9574	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold18047	601	1..147	mitochondrion-not_cleaned
+scaffold18048	621	373..621	mitochondrion-not_cleaned
+scaffold18130	684	314..621	mitochondrion-not_cleaned
+scaffold18192	4166	2855..4166	vector/etc-not_cleaned
+scaffold18236	17461572	1443158..1445436,7016112..7016574	mitochondrion/etc
+scaffold18304	605	263..605	mitochondrion-not_cleaned
+scaffold18421	654	1..272	mitochondrion-not_cleaned
+scaffold18580	669	243..669	mitochondrion-not_cleaned
+scaffold18622	698	1..498	mitochondrion-not_cleaned
+scaffold18648	743	503..743	mitochondrion-not_cleaned
+scaffold18655	633	514..633	mitochondrion-not_cleaned
+scaffold18682	6879617	1281258..1281426,5678279..5678448	mitochondrion/etc
+scaffold18757	800	1..549	mitochondrion-not_cleaned
+scaffold18788	11653	1..577	Fusarium oxysporum f. sp. lycopersici 4287-not_cleaned
+scaffold18800	691	106..413	mitochondrion-not_cleaned
+scaffold18877	476	1..139,372..476	vector/etc-not_cleaned
+scaffold18892	553	1..332	mitochondrion-not_cleaned
+scaffold18895	625	1..259	mitochondrion-not_cleaned
+scaffold18904	584	1..208	mitochondrion-not_cleaned
+scaffold18930	560	1..140	mitochondrion-not_cleaned
+scaffold18939	528	1..291	mitochondrion-not_cleaned
+scaffold18987	1075253	572540..573521	mitochondrion-not_cleaned
+scaffold18995	540	248..540	mitochondrion-not_cleaned
+scaffold19018	1244	800..1244	Chitinophaga pinensis DSM 2588-not_cleaned
+scaffold19031	644	1..337	mitochondrion-not_cleaned
+scaffold19128	15268917	6876721..6877956,15057328..15057903,15089998..15092168	mitochondrion-not_cleaned
+scaffold1917	21458	1..8516,18725..21458	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold19201	4879	1..2292,3348..3938	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold19218	655	493..655	mitochondrion-not_cleaned
+scaffold19297	610	175..482	mitochondrion-not_cleaned
+scaffold19374	612	321..612	mitochondrion-not_cleaned
+scaffold19462	580	308..580	mitochondrion-not_cleaned
+scaffold19491	816	1..308	mitochondrion-not_cleaned
+scaffold19604	602	1..263	mitochondrion-not_cleaned
+scaffold19608	683	1..278	mitochondrion-not_cleaned
+scaffold19622	597	357..597	mitochondrion-not_cleaned
+scaffold1967	573	1..229	mitochondrion-not_cleaned
+scaffold19815	612	1..270	mitochondrion-not_cleaned
+scaffold19835	625	266..625	mitochondrion-not_cleaned
+scaffold19856	670	1..183	mitochondrion-not_cleaned
+scaffold19909	643	1..225	mitochondrion-not_cleaned
+scaffold19927	984096	137811..138121	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold20145	642	1..340	mitochondrion-not_cleaned
+scaffold20170	554	1..146	mitochondrion-not_cleaned
+scaffold20197	15454645	4928721..4929275	mitochondrion-not_cleaned
+scaffold2025	782	343..782	vector/etc-not_cleaned
+scaffold2026	706	302..706	vector/etc-not_cleaned
+scaffold20383	597	1..345	mitochondrion-not_cleaned
+scaffold20583	555	178..485	mitochondrion-not_cleaned
+scaffold20584	643	1..257	mitochondrion-not_cleaned
+scaffold20697	659	1..170,466..659	mitochondrion-not_cleaned
+scaffold2071	697	1..487	mitochondrion-not_cleaned
+scaffold20712	660	1..213	mitochondrion-not_cleaned
+scaffold20778	5462	1..292	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold2080	597	1..185	mitochondrion-not_cleaned
+scaffold20836	587	262..587	mitochondrion-not_cleaned
+scaffold20843	646	1..368	mitochondrion-not_cleaned
+scaffold20925	581	1..327	mitochondrion-not_cleaned
+scaffold2094	601	1..144,440..601	mitochondrion-not_cleaned
+scaffold20984	1051	1..173	Clostridium tetani 12124569-not_cleaned
+scaffold21028	598	431..598	mitochondrion-not_cleaned
+scaffold21034	655	1..235	mitochondrion-not_cleaned
+scaffold21184	741	1..177	mitochondrion-not_cleaned
+scaffold21221	584	1..269	mitochondrion-not_cleaned
+scaffold21228	3496	1223..3496	mitochondrion-not_cleaned
+scaffold21252	594	257..594	mitochondrion-not_cleaned
+scaffold21278	539	270..539	mitochondrion-not_cleaned
+scaffold21290	653	1..214,502..653	mitochondrion-not_cleaned
+scaffold21292	634	379..634	mitochondrion-not_cleaned
+scaffold21314	7224341	5169703..5169996,7154661..7155035	vector/etc
+scaffold21322	4183	2680..4183	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold21331	725	1..238	mitochondrion-not_cleaned
+scaffold21346	697	280..697	vector/etc-not_cleaned
+scaffold21428	598	394..598	mitochondrion-not_cleaned
+scaffold21457	1133	1..263	mitochondrion-not_cleaned
+scaffold21503	22558	18343..22558	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold21528	694	451..694	mitochondrion-not_cleaned
+scaffold21562	66909	59428..60888	Agrobacterium fabacearum-not_cleaned
+scaffold21606	695	319..695	mitochondrion-not_cleaned
+scaffold21607	664	1..120	mitochondrion-not_cleaned
+scaffold21614	625	1..129	mitochondrion-not_cleaned
+scaffold21630	763	1..340	mitochondrion-not_cleaned
+scaffold21656	640	202..640	mitochondrion-not_cleaned
+scaffold21694	749	1..199,595..749	mitochondrion-not_cleaned
+scaffold21730	731	1..199,595..731	mitochondrion-not_cleaned
+scaffold2183	576	1..120	mitochondrion-not_cleaned
+scaffold2184	580	353..580	mitochondrion-not_cleaned
+scaffold21890	774	1..165	mitochondrion-not_cleaned
+scaffold21937	587	411..587	mitochondrion-not_cleaned
+scaffold21960	620	1..326	mitochondrion-not_cleaned
+scaffold22038	561	1..141,429..561	mitochondrion-not_cleaned
+scaffold22042	803	1..305,601..803	mitochondrion-not_cleaned
+scaffold22073	665	1..175	mitochondrion-not_cleaned
+scaffold22153	11315	9066..11315	Chitinophaga pinensis DSM 2588-not_cleaned
+scaffold22159	583	301..583	mitochondrion-not_cleaned
+scaffold22173	560	1..235	mitochondrion-not_cleaned
+scaffold22175	711	333..711	vector/etc-not_cleaned
+scaffold22185	629	1..159,455..629	mitochondrion-not_cleaned
+scaffold22195	593	1..353	mitochondrion-not_cleaned
+scaffold22258	672	1..378	mitochondrion-not_cleaned
+scaffold22267	640	309..640	mitochondrion-not_cleaned
+scaffold22273	706	1..155,551..706	mitochondrion-not_cleaned
+scaffold22299	727	416..727	mitochondrion-not_cleaned
+scaffold22396	656	1..135	mitochondrion-not_cleaned
+scaffold22469	679	447..679	mitochondrion-not_cleaned
+scaffold22519	700	1..280	mitochondrion-not_cleaned
+scaffold22561	849	53..360	mitochondrion-not_cleaned
+scaffold22599	601	450..601	mitochondrion-not_cleaned
+scaffold22712	639	1..225	vector/etc-not_cleaned
+scaffold22978	540	1..159	mitochondrion-not_cleaned
+scaffold22989	7206623	2330141..2330794,6879068..6879261	mitochondrion-not_cleaned
+scaffold23053	506	76..303	mitochondrion-not_cleaned
+scaffold23056	631	1..193	mitochondrion-not_cleaned
+scaffold23085	65072	56255..57515	vector/etc-not_cleaned
+scaffold23091	546	253..546	mitochondrion-not_cleaned
+scaffold23129	567	1..264	mitochondrion-not_cleaned
+scaffold23196	663	1..278	mitochondrion-not_cleaned
+scaffold23307	6750622	4197937..4198111,5696556..5696727	mitochondrion/etc
+scaffold23346	554	1..242	mitochondrion-not_cleaned
+scaffold23353	563	1..229	mitochondrion-not_cleaned
+scaffold23375	609	256..609	mitochondrion-not_cleaned
+scaffold23383	718	1..503	mitochondrion-not_cleaned
+scaffold23426	761	1..243,639..761	mitochondrion-not_cleaned
+scaffold23432	2582852	323256..325279	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold23476	973	711..973	mitochondrion-not_cleaned
+scaffold23493	650	1..191	mitochondrion-not_cleaned
+scaffold23495	657	428..657	mitochondrion-not_cleaned
+scaffold23556	571	278..571	mitochondrion-not_cleaned
+scaffold23601	759	1..256	mitochondrion-not_cleaned
+scaffold23849	561	317..561	mitochondrion-not_cleaned
+scaffold23868	832	697..832	mitochondrion-not_cleaned
+scaffold23898	690	1..218,514..690	mitochondrion-not_cleaned
+scaffold23944	600	1..297	mitochondrion-not_cleaned
+scaffold23986	711	1..169	mitochondrion-not_cleaned
+scaffold24122	748	1..254	mitochondrion-not_cleaned
+scaffold24148	889358	225622..225755	mitochondrion-not_cleaned
+scaffold24185	846	510..846	mitochondrion-not_cleaned
+scaffold24219	634	207..634	mitochondrion-not_cleaned
+scaffold24263	640	1..192	mitochondrion-not_cleaned
+scaffold24394	616	1..127	mitochondrion-not_cleaned
+scaffold24484	748	274..748	mitochondrion-not_cleaned
+scaffold24532	672	517..672	mitochondrion-not_cleaned
+scaffold24574	646	1..136	mitochondrion-not_cleaned
+scaffold24646	642	1..373	mitochondrion-not_cleaned
+scaffold2474	642	490..642	mitochondrion-not_cleaned
+scaffold24898	762	381..688	mitochondrion-not_cleaned
+scaffold25030	614	1..345	mitochondrion-not_cleaned
+scaffold25033	622	462..622	mitochondrion-not_cleaned
+scaffold25137	611	258..611	mitochondrion-not_cleaned
+scaffold25145	696	268..575	mitochondrion-not_cleaned
+scaffold25178	576	1..200	mitochondrion-not_cleaned
+scaffold25456	15359573	337731..337954,2999609..2999806,6004169..6004483,8568615..8568920,10614540..10614697,10616587..10616757,10617090..10626807,10632607..10633270,10636788..10637277,11099982..11100294,14216450..14216735,14247574..14249117,14254977..14255466	mitochondrion/etc
+scaffold25492	414	306..414	Bacillus amyloliquefaciens LFB112-not_cleaned
+scaffold2550	748	1..307	mitochondrion-not_cleaned
+scaffold25500	643	471..643	mitochondrion-not_cleaned
+scaffold25522	606	468..606	mitochondrion-not_cleaned
+scaffold25641	793	470..793	mitochondrion-not_cleaned
+scaffold25650	678	341..678	mitochondrion-not_cleaned
+scaffold25658	594	257..594	mitochondrion-not_cleaned
+scaffold25705	671	316..671	mitochondrion-not_cleaned
+scaffold25716	688	1..134	mitochondrion-not_cleaned
+scaffold25790	764	347..764	vector/etc-not_cleaned
+scaffold25792	660	504..660	mitochondrion-not_cleaned
+scaffold25898	652	1..177	mitochondrion-not_cleaned
+scaffold26137	556	1..278	mitochondrion-not_cleaned
+scaffold26141	618	271..618	mitochondrion-not_cleaned
+scaffold26149	575	333..575	mitochondrion-not_cleaned
+scaffold26279	11185	1..3641	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold26332	689	545..689	mitochondrion-not_cleaned
+scaffold26399	574	448..574	vector/etc-not_cleaned
+scaffold26522	672	1..109	Bacillus amyloliquefaciens LFB112-not_cleaned
+scaffold26555	629	418..629	mitochondrion-not_cleaned
+scaffold26605	681	507..681	mitochondrion-not_cleaned
+scaffold26689	564411	1..375,19386..26499,531975..533160,534729..554671,559137..561133,561224..564411	vector/etc-not_cleaned
+scaffold26778	833	463..833	mitochondrion-not_cleaned
+scaffold268	778	232..539	mitochondrion-not_cleaned
+scaffold2684	891	93..400	mitochondrion-not_cleaned
+scaffold269	40961	1..1818,36007..40961	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold27049	220748	68299..76475	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold27089	603	340..603	mitochondrion-not_cleaned
+scaffold27092	654	1..440	mitochondrion-not_cleaned
+scaffold27133	719	1..311	mitochondrion-not_cleaned
+scaffold27187	680266	416891..417129	mitochondrion-not_cleaned
+scaffold27206	654	1..211	mitochondrion-not_cleaned
+scaffold27246	846	326..846	mitochondrion-not_cleaned
+scaffold27363	685	1..135,531..685	mitochondrion-not_cleaned
+scaffold27566	1835	1118..1835	mitochondrion-not_cleaned
+scaffold27952	17394440	7711459..7711687,9792381..9792667,12220541..12220980,12742150..12742269,13135462..13135586	mitochondrion/etc
+scaffold28158	742	1..220	mitochondrion-not_cleaned
+scaffold2855	660	387..660	mitochondrion-not_cleaned
+scaffold28607	707	445..707	mitochondrion-not_cleaned
+scaffold2918	11831	1..6562,11378..11831	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold2941	722	1..245	mitochondrion-not_cleaned
+scaffold3013	581	359..581	mitochondrion-not_cleaned
+scaffold3014	585	1..128	mitochondrion-not_cleaned
+scaffold309	33210	1..1891,32208..33210	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold3100	622	430..622	mitochondrion-not_cleaned
+scaffold3121	14314218	1313885..1314467,3768713..3769590	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold3171	749	573..749	mitochondrion-not_cleaned
+scaffold3354	639	320..639	mitochondrion-not_cleaned
+scaffold3356	764	463..690	mitochondrion-not_cleaned
+scaffold3499	589	84..391	mitochondrion-not_cleaned
+scaffold3530	624	1..310	mitochondrion-not_cleaned
+scaffold3685	574	429..574	mitochondrion-not_cleaned
+scaffold3686	639	477..639	mitochondrion-not_cleaned
+scaffold3735	715	392..715	mitochondrion-not_cleaned
+scaffold3803	647	390..647	mitochondrion-not_cleaned
+scaffold3842	572	1..238	mitochondrion-not_cleaned
+scaffold3847	596	1..266	mitochondrion-not_cleaned
+scaffold3863	672	1..330	mitochondrion-not_cleaned
+scaffold3909	670	292..670	mitochondrion-not_cleaned
+scaffold3984	836	283..590	mitochondrion-not_cleaned
+scaffold4009	3992524	3686588..3686795,3819909..3820127	mitochondrion-not_cleaned
+scaffold4047	930115	835843..836073	mitochondrion-not_cleaned
+scaffold4122	661	318..661	mitochondrion-not_cleaned
+scaffold425	125162	34939..35720,83123..83904	vector/etc-not_cleaned
+scaffold4252	5165	1..1483,3579..5165	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold4320	663	1..271	mitochondrion-not_cleaned
+scaffold4401	2154	908..1165,1686..1943	mitochondrion-not_cleaned
+scaffold4664	584	1..264	mitochondrion-not_cleaned
+scaffold4829	2805	1179..1769	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold4891	639	1..409	mitochondrion-not_cleaned
+scaffold4892	719	1..387	mitochondrion-not_cleaned
+scaffold4925	807	538..807	mitochondrion-not_cleaned
+scaffold4932	558	269..558	mitochondrion-not_cleaned
+scaffold5078	649	1..267	mitochondrion-not_cleaned
+scaffold5162	579	285..579	mitochondrion-not_cleaned
+scaffold5170	608	280..608	mitochondrion-not_cleaned
+scaffold5171	693	395..693	mitochondrion-not_cleaned
+scaffold5181	624	1..182	mitochondrion-not_cleaned
+scaffold5182	4306716	2876127..2876371	mitochondrion-not_cleaned
+scaffold5186	690	1..278	mitochondrion-not_cleaned
+scaffold5236	583	260..583	mitochondrion-not_cleaned
+scaffold5238	606	1..233	mitochondrion-not_cleaned
+scaffold5262	602	91..398	mitochondrion-not_cleaned
+scaffold5275	622	1..164	mitochondrion-not_cleaned
+scaffold5324	6014	316..1343,2626..3653,5496..6014	mitochondrion-not_cleaned
+scaffold5412	760	1..152	mitochondrion-not_cleaned
+scaffold5433	4959	3302..4959	Azospirillum lipoferum 4B-not_cleaned
+scaffold5467	584	335..584	mitochondrion-not_cleaned
+scaffold5484	3343	2346..3343	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold5545	782	1..453	mitochondrion-not_cleaned
+scaffold560	58872	1..26893	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold5689	648	1..287	mitochondrion-not_cleaned
+scaffold5690	656	487..656	mitochondrion-not_cleaned
+scaffold575	24934	1..4654	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold5808	572	1..211	mitochondrion-not_cleaned
+scaffold5809	742	1..208	mitochondrion-not_cleaned
+scaffold5819	557	1..278	mitochondrion-not_cleaned
+scaffold5849	1539411	1170560..1172149	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold5867	580	1..146	mitochondrion-not_cleaned
+scaffold5896	663	276..583	mitochondrion-not_cleaned
+scaffold5898	574	217..574	mitochondrion-not_cleaned
+scaffold591	6302967	3504670..3504831	mitochondrion-not_cleaned
+scaffold6050	640	498..640	mitochondrion-not_cleaned
+scaffold6197	754	599..754	mitochondrion-not_cleaned
+scaffold6198	626	470..626	mitochondrion-not_cleaned
+scaffold6216	588	1..326	mitochondrion-not_cleaned
+scaffold6225	600	1..157,473..600	mitochondrion-not_cleaned
+scaffold6518	562	330..562	mitochondrion-not_cleaned
+scaffold6573	739	543..739	mitochondrion-not_cleaned
+scaffold6581	685	395..685	mitochondrion-not_cleaned
+scaffold6694	687	1..131	mitochondrion-not_cleaned
+scaffold698	740	1..153	mitochondrion-not_cleaned
+scaffold7068	708	444..708	mitochondrion-not_cleaned
+scaffold7082	671	494..671	mitochondrion-not_cleaned
+scaffold719	7982525	1978921..1979068,1982559..1983015	mitochondrion-not_cleaned
+scaffold7315	435101	367016..367778	mitochondrion-not_cleaned
+scaffold7387	684	1..156	mitochondrion-not_cleaned
+scaffold7423	709	1..185	mitochondrion-not_cleaned
+scaffold7424	643	1..160	mitochondrion-not_cleaned
+scaffold7449	629	250..629	mitochondrion-not_cleaned
+scaffold7470	589	425..589	mitochondrion-not_cleaned
+scaffold7596	585	441..585	mitochondrion-not_cleaned
+scaffold7598	2395632	1772695..1772863	mitochondrion-not_cleaned
+scaffold8039	664	524..664	mitochondrion-not_cleaned
+scaffold8082	5864	1..1051,3905..5864	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold8143	33365	25054..33365	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold8262	7253348	4076302..4076465,6970293..6978343	mitochondrion/etc
+scaffold8280	556	250..556	mitochondrion-not_cleaned
+scaffold8336	612	1..374	mitochondrion-not_cleaned
+scaffold8374	535	1..208	mitochondrion-not_cleaned
+scaffold8408	657	1..235	mitochondrion-not_cleaned
+scaffold8467	716	573..716	mitochondrion-not_cleaned
+scaffold8513	8940	7278..8940	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold8525	421	1..215	vector/etc-not_cleaned
+scaffold8641	576	452..576	mitochondrion-not_cleaned
+scaffold8709	4183	1..1504	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold8745	595	400..595	mitochondrion-not_cleaned
+scaffold8794	687	1..217	mitochondrion-not_cleaned
+scaffold8808	580	1..162,450..580	mitochondrion-not_cleaned
+scaffold8847	4326304	2363652..2364122	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold8883	552	292..552	mitochondrion-not_cleaned
+scaffold8939	562	1..218,437..562	mitochondrion-not_cleaned
+scaffold9027	609	1..140	mitochondrion-not_cleaned
+scaffold9079	592	399..592	mitochondrion-not_cleaned
+scaffold9087	714	449..714	mitochondrion-not_cleaned
+scaffold9098	665	474..665	mitochondrion-not_cleaned
+scaffold9127	631	1..145	mitochondrion-not_cleaned
+scaffold9172	579	201..579	mitochondrion-not_cleaned
+scaffold9180	10408721	1708859..1709223	mitochondrion-not_cleaned
+scaffold9182	563	396..563	mitochondrion-not_cleaned
+scaffold9191	642	1..165	mitochondrion-not_cleaned
+scaffold9228	641	274..641	mitochondrion-not_cleaned
+scaffold9260	804	604..804	mitochondrion-not_cleaned
+scaffold9261	636	452..636	mitochondrion-not_cleaned
+scaffold9363	667	1..120	mitochondrion-not_cleaned
+scaffold940	2720837	2069805..2070076	Enterobacter cloacae EcWSU1-not_cleaned
+scaffold9416	616	328..616	mitochondrion-not_cleaned
+scaffold9417	548	333..548	mitochondrion-not_cleaned
+scaffold9483	325222	178491..178993,324701..325222	vector/etc,Enterobacter sp. R4-368-not_cleaned
+scaffold9513	636	489..636	mitochondrion-not_cleaned
+scaffold9570	635	412..635	mitochondrion-not_cleaned
+scaffold9586	480085	411043..411254	mitochondrion-not_cleaned
+scaffold9592	597	438..597	mitochondrion-not_cleaned
+scaffold9601	565	1..208	mitochondrion-not_cleaned
+scaffold9604	624	1..194	mitochondrion-not_cleaned
+scaffold9615	586	326..586	mitochondrion-not_cleaned
+scaffold9634	613	1..315	mitochondrion-not_cleaned
+scaffold9659	655	391..655	mitochondrion-not_cleaned
+scaffold9683	3496	1..2274	mitochondrion-not_cleaned
+scaffold974	933693	933096..933220	mitochondrion-not_cleaned
+scaffold9768	687	1..234	mitochondrion-not_cleaned
+scaffold9786	595	225..532	mitochondrion-not_cleaned
+scaffold9820	610	1..274	mitochondrion-not_cleaned
+scaffold9821	592	1..279	mitochondrion-not_cleaned
+scaffold9839	627	281..627	mitochondrion-not_cleaned
+scaffold9932	661	204..661	mitochondrion-not_cleaned
+scaffold9933	614	1..239	mitochondrion-not_cleaned
+scaffold9953	608	1..330	mitochondrion-not_cleaned
+scaffold9959	642	482..642	mitochondrion-not_cleaned
+scaffold9967	708	462..708	mitochondrion-not_cleaned
+scaffold9983	699	266..699	mitochondrion-not_cleaned
