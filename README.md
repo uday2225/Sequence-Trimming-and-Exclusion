@@ -23,9 +23,9 @@ Developed as part of a bioinformatics coursework assignment, this script demonst
 | File | Description |
 |------|-------------|
 | `project.py` | Main Python script (beginner-friendly, procedural style) |
-| `realistic_300lines.fasta` | Example FASTA file with 3 long sequences (18,000+ bp each) |
-| `realistic_long_exclude_list.tab` | List of sequences to exclude |
-| `realistic_long_trim_list.tab` | Span definitions for trimming |
+| `scaffolds.fasta` | Example FASTA file with 3 long sequences (18,000+ bp each) |
+| `exclude_list.tab` | List of sequences to exclude |
+| `trim_list.tab` | Span definitions for trimming |
 | `output1.fasta` | Output after excluding sequences only |
 | `output2.fasta` | Trimmed output excluding "mitochondrion-not_cleaned" |
 | `output3.fasta` | Trimmed output including all trimming spans |
