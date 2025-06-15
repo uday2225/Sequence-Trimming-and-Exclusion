@@ -23,13 +23,20 @@ Developed as part of a bioinformatics coursework assignment, this script demonst
 | File | Description |
 |------|-------------|
 | `project.py` | Main Python script (beginner-friendly, procedural style) |
-| `scaffolds.fasta` | Example FASTA file with 3 long sequences (18,000+ bp each) |
+| `Scaffolds_demo.fasta` | ✅ **Demo FASTA file** (trimmed down version of the original due to size limits) |
 | `exclude_list.tab` | List of sequences to exclude |
 | `trim_list.tab` | Span definitions for trimming |
 | `output1.fasta` | Output after excluding sequences only |
-| `output2.fasta` | Trimmed output excluding "mitochondrion-not_cleaned" |
+| `output2.fasta` | Trimmed output excluding `"mitochondrion-not_cleaned"` |
 | `output3.fasta` | Trimmed output including all trimming spans |
 | `README.md` | You're reading it! |
+
+---
+
+## 📥 Original Input File Notice
+
+Due to file size restrictions and licensing, the full `Scaffolds.fasta` file (approx. 600MB) used in the original assignment is not uploaded to this repository.  
+Instead, this repository includes `Scaffolds_demo.fasta`, a representative subset of the original data (~24MB), designed to preserve the real structure and complexity for demonstration purposes.
 
 ---
 
